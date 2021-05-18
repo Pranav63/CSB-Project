@@ -10,6 +10,9 @@ Share your work in the best way you deem it to be fit: Jupyter Notebook, Github 
 
 You will be evaluated over your ability to explain, model, creativity and write clear and clean code. 
 
+
+Assignment Link - https://docs.google.com/document/d/1_uBj1svuciHwQ_pe9lleR6nKhXCph5osv0pqEzClc1Y/edit
+
 References:
 1) https://datascience.stackexchange.com/questions/32818/train-test-split-of-unbalanced-dataset-classification
 2) https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
